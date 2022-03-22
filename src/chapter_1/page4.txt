@@ -1,0 +1,6 @@
+
+
+        We will prepare you to embark on a career in a high-growth
+        IT market and become a software development engineer in test (SDET).
+        This specialty combines software development and coding to automate
+        software testing using tools and frameworks based on Java and Selenium.
